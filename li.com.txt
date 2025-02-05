@@ -1,0 +1,4 @@
+Functional requirements include librarian and student login, updating member and book details, and book issue/return. The system will also have non-functional requirements. Use cases and class, sequence, and data flow diagrams are proposed to be created. This document outlines a library management system project.
+
+ LIBRARY REQUIREMENTS
+
