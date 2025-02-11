@@ -1,0 +1,59 @@
+ 1. Introduction
+
+“The purpose of this project is to develop a comprehensive Hotel Management System to streamline room bookings, guest check-ins/check-outs, billing, and reporting for hotel staff and management.”
+
+
+Scope:
+Outline what the system will cover.
+
+“The HMS will manage room reservations, guest profiles, billing, housekeeping schedules, and reporting. It will support both online and offline booking management.”
+
+
+Stakeholders:
+
+Hotel Managers
+
+Front Desk Staff
+
+Housekeeping Team
+
+Guests (for online bookings)
+
+Admin/IT Team
+
+
+
+---
+
+2. Overall Description
+
+Product Perspective:
+
+The HMS will be a web-based platform accessible via desktop and mobile devices.
+
+Integration with payment gateways, email services, and third-party booking platforms (like Booking.com).
+Stakeholders:
+
+Customers (buyers)
+
+Pharmacists
+
+Delivery Partners
+
+Admin (system administrators)
+
+Regulatory Authorities (for compliance)
+
+
+
+2. Overall Description
+
+Describes how the system operates within its environment.
+
+Product Perspective:
+
+Web and mobile applications for customer access.
+
+Admin dashboard for inventory, orders, and compliance management.
+
+Integration with payment gateways, prescription verification services, and delivery APIs.
