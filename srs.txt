@@ -1,0 +1,22 @@
+intro:The purchase of train tickets for available seats or berths after the chart preparation on the day of its departure. 
+TRAIN RESERVATION REQUIREMENTS 
+Documents or ID Cards are Required for Train Ticket Booking
+Adhar card.
+Voter ID card.
+Passport.
+Driving license.
+Pan card.
+Student ID.
+Bank passbook with photographs.
+Credit/Debit card.
+purpose:
+The Railway Reservation System facilitates the passengers to enquire about the trains available on the basis of source and destination, Booking and Cancellation of tickets, enquire about the status of the booked ticket, etc.
+PROJECT PERSPECTIVE
+The Advance Reservation Period (ARP) has varied from 30 days to 120 days, with a consensus that 60 days is the most effective duration from a passenger's perspective. The 60-day advance reservation period has proven beneficial in several ways, claims the Railways.
+PROJECT FUNCTION:
+A railway reservation system is a piece of software that helps railway operators handle distribution, pricing, scheduling, and other operations. rail operations covering such back-office workflows as workforce management, fares generation, route modeling, information sharing, disruption management, and so on.
+PROJECT SCOPE:
+It facilitates long distance travel and transport of bulky goods which are not easily transported through motor vehicles. It is a quick and more regular form of transport because it helps in the transportation of goods with speed and certainty.
+
+
+
